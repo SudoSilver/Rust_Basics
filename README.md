@@ -1,4 +1,5 @@
 This is an repository where I explain rust how it makes sense to me
+It is my begginer notes and by no means professional or a good explentation it is just notes in the way I understand them.
 
 I am not the best rust programmer but I know my way around it and to help myself
 and aspiring Rustaceans I am making this mess.
